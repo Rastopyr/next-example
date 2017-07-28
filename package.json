@@ -1,0 +1,21 @@
+{
+  "name": "lightning-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Rastopyr <rastopyr@gmail.com> (http://rastopyr.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "next": "^3.0.1-beta.19"
+  },
+  "dependencies": {
+    "next": "^3.0.1-beta.18",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
